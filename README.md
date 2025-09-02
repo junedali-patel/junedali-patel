@@ -1,95 +1,81 @@
-# Hi there, I’m Junedal Patel 👋  
+<!-- Animated Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=38B2AC&center=true&vCenter=true&width=700&lines=Hi+I'm+Junedal+Patel+👋;Front-End+Developer;AI+App+Innovator;Building+Impact-Driven+Solutions" alt="Typing SVG" />
+</p>
 
-**Front-End Developer** | Building thoughtful, impact-driven web applications  
+<!-- Custom Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:4FD1C5&height=180&section=header&text=Junedal%20Patel&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+</p>
 
 ---
 
 ## 🚀 About Me  
-- 🌱 2+ years of experience in **React, Supabase, Firebase, AI integration**  
-- 💡 Passionate about **EdTech, healthcare, and social impact projects**  
-- 🎯 Skilled at building **scalable full-stack apps** with focus on **usability & performance**  
-- ✨ Always exploring new technologies and innovating with AI  
+💡 Passionate **Front-End Developer** with expertise in **React, Firebase, and AI-powered apps**.  
+🎯 Focused on building **impact-driven projects** like MedAid, Smart Bharat, TrustChain & more.  
+⚡ Currently working on **AI-powered assistants, blockchain platforms, and healthcare apps**.  
 
 ---
 
-## 🛠 Skills & Mastery  
+## 🛠️ Tech Stack & Skill Mastery  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-75%25-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-80%25-orange?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-70%25-green?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-85%25-teal?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-65%25-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### ⚡ Skill Mastery (Animated)
-
-![React](https://progress-bar.dev/90/?title=React&width=300&color=61DAFB)  
-![Firebase](https://progress-bar.dev/85/?title=Firebase&width=300&color=FFCA28)  
-![Supabase](https://progress-bar.dev/80/?title=Supabase&width=300&color=3ECF8E)  
-![TailwindCSS](https://progress-bar.dev/75/?title=TailwindCSS&width=300&color=38B2AC)  
-![PostgreSQL](https://progress-bar.dev/70/?title=PostgreSQL&width=300&color=316192)  
-![Dialogflow](https://progress-bar.dev/65/?title=Dialogflow&width=300&color=FF9800)  
-
----
-
-## 🌟 Highlighted Projects  
-
-### 🌐 Smart Bharat – AI-powered Rural Assistant  
-- Multilingual **voice assistant** for rural citizens  
-- Provides **healthcare updates, weather info & government schemes**  
-- Built with **React, Firebase, Dialogflow CX, Google Translate API**  
-
----
-
-### 👵 Senior Connect – Elderly Healthcare & Support Platform  
-- **Telemedicine app** with AI-assisted checkups & video calling  
-- **Voice-first navigation** for seniors  
-- Built with **ReactJS, Firebase, WebRTC, AI/NLP**  
-
----
-
-### 🎓 InternDeck – AI-driven Internship & Mentorship Platform  
-- **AI skill-to-job matching** with match percentage  
-- Internship browsing, mentor referrals & application tracking  
-- Built with **React, Supabase, TailwindCSS, AI/NLP**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junedalipatel&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junedali-patel&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junedali-patel&theme=tokyonight" alt="GitHub Streak" height="180"/>
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=junedali-patel&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&line=61dafb&point=ffffff" width="95%"/>
-</p>  
-
----
-
-## 🎉 Fun Animations  
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=38B2AC&lines=Front-End+Developer;AI+App+Innovator;React+%7C+Firebase+%7C+Supabase;Always+learning+new+things!">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
-</p>  
-
----
-
-## 📫 Let’s Connect  
-
-<p align="center">
-  <a href="https://www.instagram.com/xjuned__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=junedalipatel&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junedalipatel&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-✨ *"Driven by a desire to build technology that empowers and uplifts."* ✨
+## 🌟 Featured Projects  
+
+🚑 **Medaid** – AI-powered healthcare platform with doctor-patient virtual consultations  
+🌾 **Smart Bharat** – Voice-enabled rural assistant providing govt schemes, weather, & healthcare info  
+🔗 **TrustChain** – Decentralized academic credentials verification using blockchain  
+📚 **InternDeck** – EdTech platform connecting students with mentors & internships  
+
+---
+
+## 🎨 Fun Animations  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 📬 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/junedalipatel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:junedali.patel@example.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/junedalipatel" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FD1C5,100:38B2AC&height=100&section=footer" />
+</p>

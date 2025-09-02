@@ -1,6 +1,6 @@
 # Hi there, I’m Junedal Patel 👋  
 
-**Front-End Developer** | Building thoughtful, impact-driven web applications  
+**Front-End Developer** | Building thoughtful, impactful and AI-driven web applications  
 
 ---
 

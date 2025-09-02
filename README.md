@@ -42,22 +42,22 @@ Decentralized platform for **secure academic document verification**, integratin
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junedali-patel&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
-<p align="left">
-<br>| Skill | Mastery |</br>
-<br>|-------|----------|</br>
-<br>| React.js ⚛️ | ██████████░░ 90% |</br>
-<br>| JavaScript 🟨 | █████████░░░ 85% |</br>
-<br>| HTML5 & CSS3 🎨 | ██████████░░ 95% |</br>
-<br>| Tailwind CSS 🌈 | ██████████░░ 90% |</br>
-<br>| Firebase 🔥 | █████████░░░ 80% |</br>
-<br>| Supabase 🐘 | ████████░░░░ 70% |</br>
-<br>| Node.js 🌱 | ████████░░░░ 75% |</br>
-<br>| Express.js 🚀 | ███████░░░░░ 65% |</br>
-<br>| MongoDB 🍃 | ████████░░░░ 70% |</br>
-<br>| Python 🐍 | ███████░░░░░ 60% |</br>
-<br>| C++ ⚙️ | ████████░░░░ 70% |</br>
-<br>| Java ☕ | ███████░░░░░ 60% |</br>
-</p>
+
+| Skill | Mastery |
+|-------|----------|
+| React.js ⚛️ | ██████████░░ 90% |
+| JavaScript 🟨 | █████████░░░ 85% |
+| HTML5 & CSS3 🎨 | ██████████░░ 95% |
+| Tailwind CSS 🌈 | ██████████░░ 90% |
+| Firebase 🔥 | █████████░░░ 80% |
+| Supabase 🐘 | ████████░░░░ 70% |
+| Node.js 🌱 | ████████░░░░ 75% |
+| Express.js 🚀 | ███████░░░░░ 65% |
+| MongoDB 🍃 | ████████░░░░ 70% |
+| Python 🐍 | ███████░░░░░ 60% |
+| C++ ⚙️ | ████████░░░░ 70% |
+| Java ☕ | ███████░░░░░ 60% |
+
 ---
 
 # 📊 GitHub Analytics  
@@ -86,4 +86,3 @@ Decentralized platform for **secure academic document verification**, integratin
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:4FD1C5&height=120&section=footer" />
 </p>
-

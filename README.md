@@ -1,52 +1,74 @@
-# Hi there, I’m Junedal Patel 👋
+# Hi there, I’m Junedal Patel 👋  
 
-**Front-End Developer** | Building thoughtful, impact-driven web applications
-
-- 🌱 2+ years of experience in **React, Supabase, Firebase, AI integration**, and modern web technologies  
-- 💡 Passionate about creating **accessible, real-world solutions** in **EdTech, healthcare, and social impact**  
-- 🚀 Skilled at building **scalable full-stack apps** with a focus on usability and performance  
-- 🎯 Always learning, innovating, and contributing to projects that make a difference  
+**Front-End Developer** | Building thoughtful, impact-driven web applications  
 
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 About Me  
+- 🌱 2+ years of experience in **React, Supabase, Firebase, AI integration**  
+- 💡 Passionate about **EdTech, healthcare, and social impact projects**  
+- 🎯 Skilled at building **scalable full-stack apps** with focus on **usability & performance**  
+- ✨ Always exploring new technologies and innovating with AI  
+
+---
+
+## 🎨 Tech Toolbox  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" />
+</p>
+
+---
+
+## 🌟 Highlighted Projects  
 
 ### 🌐 Smart Bharat – AI-powered Rural Assistant  
-- **Tech Stack:** React, Firebase, Dialogflow CX, Google Translate API, Weather API, Cloud NLP  
-- **What it does:** Voice-enabled, multilingual assistant that provides rural users with **healthcare updates, government schemes, and weather forecasts** in their local languages  
-- **Impact:** Empowers rural citizens by **breaking language barriers** and improving **access to vital resources**
+✔ Multilingual **voice assistant** for rural citizens  
+✔ Provides **healthcare updates, weather info & government schemes**  
+✔ Built with **React, Firebase, Dialogflow CX, Google Translate API**  
 
 ---
 
 ### 👵 Senior Connect – Elderly Healthcare & Support Platform  
-- **Tech Stack:** ReactJS, Firebase (Auth + Firestore + Functions), WebRTC, AI/NLP  
-- **What it does:** Simplifies healthcare for elderly citizens through **virtual consultations, AI-assisted checkups, voice-first navigation, and prescription generation**  
-- **Impact:** Improves **telemedicine accessibility**, connects patients with doctors remotely, and ensures **user-friendly healthcare access**
+✔ **Telemedicine app** with AI-assisted checkups & video calling  
+✔ **Voice-first navigation** for seniors  
+✔ Built with **ReactJS, Firebase, WebRTC, AI/NLP**  
 
 ---
 
 ### 🎓 InternDeck – AI-driven Internship & Mentorship Platform  
-- **Tech Stack:** React, Supabase (Postgres DB, Auth, APIs), TailwindCSS, AI/NLP  
-- **What it does:** Connects students with internships and mentors. Features **AI skill-to-job matching** that calculates a **match percentage** to boost chances of selection  
-- **Impact:** Helps students **find the right opportunities**, improves selection rates, and supports career growth through **mentorship & data-driven insights**
+✔ **AI skill-to-job matching** with match percentage  
+✔ Internship browsing, mentor referrals & application tracking  
+✔ Built with **React, Supabase, TailwindCSS, AI/NLP**  
 
 ---
 
-## 🛠 Tech Skills
+## 📊 GitHub Analytics  
 
-| Front-End | Backend & APIs | AI & Voice | Databases | Tools |
-|-----------|----------------|------------|-----------|-------|
-| React, TailwindCSS, HTML, CSS, JavaScript | Firebase, Supabase | Dialogflow, Google Translate API, NLP, AI Matching, WebRTC | Firestore, PostgreSQL (Supabase) | Git, GitHub, Agile, Testing (Jest, React Testing Library) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=junedali-patel&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junedali-patel&theme=radical" alt="GitHub Streak" height="180"/>
+</p>  
 
----
-
-## 📫 Let’s Connect!
-
-- 🌍 [Instagram](https://www.instagram.com/xjuned__/)  
-- 💼 [LinkedIn](your-linkedin-here)  
-- 📧 Email: *your email here*  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=junedali-patel&theme=react-dark&bg_color=0d1117&hide_border=true" width="95%"/>
+</p>  
 
 ---
 
-> *"Driven by a desire to build technology that empowers and uplifts."*  
-Thanks for stopping by! Feel free to explore my repos, star projects you like, or connect with me ✨
+## 📫 Let’s Connect  
+
+<p align="center">
+  <a href="https://www.instagram.com/xjuned__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+✨ *"Driven by a desire to build technology that empowers and uplifts."* ✨

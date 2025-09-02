@@ -39,10 +39,10 @@ Decentralized platform for **secure academic document verification**, integratin
 # ⚡ Tech Stack & Skills  
 
 <!-- Animated Skill Bars -->
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junedali-patel&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
-<p align="center">
+<p align="left">
 <br>| Skill | Mastery |</br>
 <br>|-------|----------|</br>
 <br>| React.js ⚛️ | ██████████░░ 90% |</br>

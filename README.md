@@ -77,7 +77,7 @@ Decentralized platform for **secure academic document verification**, integratin
 <p align="center">
   <a href="https://github.com/junedali-patel"><img src="https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white&style=for-the-badge"/></a>
   <a href="https://www.instagram.com/xjuned__/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/junedali-patel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/junedalipatel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 ---

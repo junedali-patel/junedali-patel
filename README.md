@@ -42,7 +42,7 @@ Decentralized platform for **secure academic document verification**, integratin
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junedali-patel&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
-
+<p align="center">
 | Skill | Mastery |
 |-------|----------|
 | React.js ⚛️ | ██████████░░ 90% |
@@ -57,7 +57,7 @@ Decentralized platform for **secure academic document verification**, integratin
 | Python 🐍 | ███████░░░░░ 60% |
 | C++ ⚙️ | ████████░░░░ 70% |
 | Java ☕ | ███████░░░░░ 60% |
-
+</p>
 ---
 
 # 📊 GitHub Analytics  
